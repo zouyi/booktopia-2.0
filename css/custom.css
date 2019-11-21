@@ -1,0 +1,73 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Raleway', sans-serif !important;;
+}
+
+body {
+   font-family: 'Raleway', sans-serif !important;
+}
+
+
+/* change the navbar color */
+.navbar-color {
+    background-color: #122953 !important;
+}
+
+.navbar-color .nav-link {
+  color:white !important;
+}
+
+@media (max-width: 767px) {
+  .trade-in-form-row .text-right { text-align:left !important; }
+  .trade-in-form-row .trade-in-form-button { width:100%;}
+}
+
+
+.custom-form {
+  background-color:white;
+  border-radius: 25px;
+}
+
+.custom-form label{
+  color: grey;
+}
+
+.custom-form input{
+}
+
+.header-form {
+  color:white; 
+}
+
+.btn-orange {
+   color:white;
+   background-color: #F5CA3D !important;
+}
+
+.custom-submit {
+  width:80%;
+}
+
+.trade-in-form-button {
+  width:60%;
+}
+
+.custom-label {
+}
+
+
+/* change the brand and text color */
+.navbar-light .navbar-brand,
+.navbar-light .navbar-text {
+    color: rgba(255,255,255,.8);
+}
+/* change the link color */
+.navbar-custom .navbar-nav .nav-link {
+    color: rgba(255,255,255,.5);
+}
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:focus .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #ffffff;
+}
+

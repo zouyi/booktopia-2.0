@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="173px" height="39px" viewBox="0 0 173 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>header-logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="header-logo" transform="translate(-2.000000, -3.000000)">
+            <g>
+                <text id="Booktopia" fill="#FFFFFF" font-family="Raleway-Bold, Raleway" font-size="36" font-weight="bold">
+                    <tspan x="0" y="34">Booktopia</tspan>
+                </text>
+                <g id="leaf-svg" transform="translate(141.000000, 3.000000)" fill-rule="nonzero">
+                    <path d="M9.5,3.99846201 C7.93119266,0.174767446 2.21376147,-0.240851529 0,0.091643651 C0,0.091643651 0.0871559633,6.15968068 4.44495413,8.48714693 C6.03119266,9.33500964 7.80917431,9.83375241 9.5,10 C11.1908257,9.83375241 12.9688073,9.33500964 14.5550459,8.48714693 C18.912844,6.15968068 19,0.091643651 19,0.091643651 C16.7862385,-0.240851529 11.0688073,0.174767446 9.5,3.99846201 Z" id="Path" fill="#8AC34A"></path>
+                    <path d="M10,3.99846201 C8.34862385,0.174767446 2.33027523,-0.240851529 0,0.091643651 C0,0.091643651 0.0917431193,6.15968068 4.67889908,8.48714693 C6.34862385,9.33500964 8.22018349,9.83375241 10,10 L10,3.99846201 Z" id="Path" fill="#699F38"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
